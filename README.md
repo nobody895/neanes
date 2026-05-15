@@ -6,6 +6,13 @@ Neanes (pronounced neh-ah-ness) is a free and open source scorewriter for notati
 
 ![Demo Screen](images/demo.png?raw=true)
 
+
+## Nobody's fork for Gabud Skete
+This is a fork for Gabud Skete, with certain customizations:
+- Stathis font allows a bigger size for martyria elements. Font in PageSetup got renamed to "Stathis Gabud".
+
+Version convention: main version suffixed by a "g" (e.g. 0.5.8g)
+
 ## Features
 
 - WYSIWYG design

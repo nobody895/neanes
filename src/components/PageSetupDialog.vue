@@ -1780,7 +1780,7 @@ export default defineComponent({
       } else {
         return [
           { displayName: 'EZ Psaltica', value: 'Neanes' },
-          { displayName: 'Stathis Series', value: 'NeanesStathisSeries' },
+          { displayName: 'Stathis Gabud', value: 'NeanesStathisSeries' },
         ];
       }
     },
